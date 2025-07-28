@@ -16,4 +16,7 @@ export default defineConfig({
 			plugins: [require('tailwindcss'), require('autoprefixer')],
 		},
 	},
+	build: {
+		outDir: 'build', // Указываем, что выходная папка будет называться build
+	},
 });
