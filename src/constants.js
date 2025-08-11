@@ -1,3 +1,5 @@
+import { TrendingUp, Leaf, Users, Award } from 'lucide-react';
+
 export const stats = [
 	{
 		icon: TrendingUp,

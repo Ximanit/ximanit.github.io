@@ -1,5 +1,4 @@
 import { Card, CardContent } from './ui/card';
-import { TrendingUp, Leaf, Users, Award } from 'lucide-react';
 
 import { stats } from '../constants';
 
