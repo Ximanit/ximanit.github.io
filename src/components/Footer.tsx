@@ -15,7 +15,7 @@ export function Footer() {
 					{/* Company Info */}
 					<div className="lg:col-span-1">
 						<div className="flex items-center space-x-2 mb-4">
-							<img src="/logo.jpg" width={150} />
+							<img src="/logo.jpg" width={144} />
 						</div>
 						<p className="text-gray-400 mb-4">
 							Ведущая компания в области переработки отходов. Создаем чистое
