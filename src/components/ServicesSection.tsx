@@ -100,8 +100,6 @@ export function ServicesSection() {
 						<Card
 							key={index}
 							className="relative overflow-hidden hover:shadow-xl transition-shadow border-0">
-							{service.popular && 'Популярно'}
-
 							<div className="relative h-48 overflow-hidden">
 								<ImageWithFallback
 									src={service.image}
